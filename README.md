@@ -9,7 +9,7 @@ Requirements
 
 Usage
 ---
-1. Clone this repository into a folder that is synchronized on at least two computers. (e.g. `git clone https://github.com/jab416171/cloud-storage-benchmark`)
+1. Clone this repository into a folder that is synchronized on at least two computers. (e.g. `git clone https://github.com/jab416171/cloud-storage-benchmark benchmark`)
 2. cd into the same benchmark folder on both computers (e.g. `cd ~/Dropbox/benchmark/10emptyfiles`)
 3. On your first computer, execute `bulkstart.sh`
 4. On the second computer, execute `bulkend.sh`

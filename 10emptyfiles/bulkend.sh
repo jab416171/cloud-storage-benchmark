@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir -p ../results
 timestamp=$(date +%F)-$(date +%T)
 for i in {1..10}; do
 	while [ -d ../hashes ]; do
